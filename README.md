@@ -7,7 +7,8 @@
 
   ## About me
  - My name is Blessing Njoku
-- I'm a Tech enthusiast and currently working as a frontend Facilitator.
+- I'm a Tech enthusiast and currently working as a Fullstack Developer.
+- I write Javascript for fun.
 - I'm picking a new launguage python for AI.
 - Refer me to a company that might need my service.
 - Feel free to ask me anything related to my stack.
